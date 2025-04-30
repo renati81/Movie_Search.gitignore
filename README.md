@@ -23,5 +23,5 @@ How to run -
    -source venv/bin/activate   # or venv\Scripts\activate on Windows
    -pip install -r requirements.txt
 
-3.Downlaod Required Files - FAISS Index, Dataset
+3.Downlaod Required Files - FAISS Index, Dataset - {https://drive.google.com/drive/folders/1Aq8aG3dBt7EvLnwlOyiZOjovStdEsjvM?usp=drive_link}
 4.Run Application - python app.py
