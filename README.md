@@ -1,14 +1,13 @@
-# Movie_Search.gitignore
-# 🎬 Movie Search Engine using FAISS + Embeddings
+#  Movie Search Engine using FAISS + Embeddings
 
 This project is a semantic movie search tool built with Python, using FAISS and vector embeddings to retrieve similar movie titles based on user input.
 
-## 🔍 Features
+##  Features
 - FAISS-based vector search for fast similarity matching
 - Embedding-based semantic understanding of movie plots/titles
 - Clean Python-based interface with lightweight design
 
-## 📁 Project Structure
+## Project Structure
 
 Movie_search/ ├── app.py # Main application script ├── imdb_movies_faiss.index # FAISS index file (not uploaded) ├── Movies_dataset.csv # Source dataset (not uploaded) ├── Output.pdf # Sample result output ├── Steps to run.txt # Step-by-step execution guide ├── Read me file.docx # Project overview (not uploaded) ├── local_model_cache/ # Cache folder for model artifacts ├── venv/ # Python virtual environment
 
